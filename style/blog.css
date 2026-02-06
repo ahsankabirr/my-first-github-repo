@@ -1,0 +1,10 @@
+div{
+    background-color: aquamarine;
+    padding: 20px 10px;
+    border: 1px solid red;
+    border-radius: 5px;
+}
+div h3{
+    text-align: center;
+    font-size: 30px;
+}
